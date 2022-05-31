@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Maxx12211_color=111&show_icons=true&count_private=true&hide_border=true&text_color=ffb6c1&title_color=e75480&icon_color=ffb6c1&include_all_commits=true) 
+
+          
+
 <!--
 **Maxx12211/Maxx12211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
