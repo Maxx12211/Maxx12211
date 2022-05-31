@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MAXX💔</h1>
 <h3 align="center">I am from India and I am 19 years old.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-vector/20210118/ourlarge/pngtree-flat-design-concept-of-programmers-at-work-mobile-app-software-development-png-image_2764955.jpg">
+<img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 
 - 🌱 I’m currently learning **Computer Science**
 
