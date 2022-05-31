@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Student || Android Enthusiast**
 
-- ⚡ Fun fact **LOADING⏳⌛️ **
+- ⚡ Fun fact **LOADING⏳⌛️**
 
 
 <h3 align="left">Languages and Tools:</h3>
