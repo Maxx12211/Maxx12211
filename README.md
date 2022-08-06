@@ -1,4 +1,4 @@
-![viper](https://res.allmacwallpaper.com/pic/Thumbnails/22666_728.jpg)
+
 <h1 align="center">Hi 👋, I'm MAXX💔</h1>
 <h3 align="center">I am from India and I am 19 years old.</h3>
 
