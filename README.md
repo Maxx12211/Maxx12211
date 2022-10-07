@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 💬 Ask me about **Student || Android Enthusiast**
+- 💬 About me **Student || Android Enthusiast**
 
 - ⚡ Fun fact **LOADING⏳⌛️**
 
